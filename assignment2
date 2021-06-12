@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+
+    <link rel="stylesheet" href="style.css"
+</head>
+<body>
+    <h1>our menu</h1>
+    <div class="container-fluid">
+        <div class="row">
+            <div class="col-sm-4">
+                <div class="item1">CHICHEN</div>
+                Does the implementation use a CSS or Javascript framework (not allowed)?
+                Does the implementation use inline CSS (not allowed) or reference a CSS file instead?
+                Does the implemented layout conform to the provided mockup illustrations for desktop, tablet, and mobile views?
+                Does the section title region always appear in the top right corner of the section region, no matter what view is being displayed (desktop, tablet, or mobile)?
+            </div>
+            <div class="col-sm-4">
+                <div class="item2">beef</div>
+                Does the implementation use a CSS or Javascript framework (not allowed)?
+                Does the implementation use inline CSS (not allowed) or reference a CSS file instead?
+                Does the implemented layout conform to the provided mockup illustrations for desktop, tablet, and mobile views?
+                Does the section title region always appear in the top right corner of the section region, no matter what view is being displayed (desktop, tablet, or mobile)?
+            </div>
+            <div class="col-sm-4">
+                <div class="item3">susi</div>
+                Does the implementation use a CSS or Javascript framework (not allowed)?
+                Does the implementation use inline CSS (not allowed) or reference a CSS file instead?
+                Does the implemented layout conform to the provided mockup illustrations for desktop, tablet, and mobile views?
+                Does the section title region always appear in the top right corner of the section region, no matter what view is being displayed (desktop, tablet, or mobile)?
+            </div>
+        </div>
+    </div>
+    
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/script.js"></script>
+</body>
+</html>
